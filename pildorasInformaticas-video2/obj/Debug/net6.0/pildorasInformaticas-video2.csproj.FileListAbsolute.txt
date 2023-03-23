@@ -1,0 +1,15 @@
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\bin\Debug\net6.0\pildorasInformaticas-video2.exe
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\bin\Debug\net6.0\pildorasInformaticas-video2.deps.json
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\bin\Debug\net6.0\pildorasInformaticas-video2.runtimeconfig.json
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\bin\Debug\net6.0\pildorasInformaticas-video2.dll
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\bin\Debug\net6.0\pildorasInformaticas-video2.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.csproj.AssemblyReference.cache
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.AssemblyInfoInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.AssemblyInfo.cs
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.csproj.CoreCompileInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.dll
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\refint\pildorasInformaticas-video2.dll
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\pildorasInformaticas-video2.genruntimeconfig.cache
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video2\obj\Debug\net6.0\ref\pildorasInformaticas-video2.dll
