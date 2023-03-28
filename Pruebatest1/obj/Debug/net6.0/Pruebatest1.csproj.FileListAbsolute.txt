@@ -1,0 +1,15 @@
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\bin\Debug\net6.0\Pruebatest1.exe
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\bin\Debug\net6.0\Pruebatest1.deps.json
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\bin\Debug\net6.0\Pruebatest1.runtimeconfig.json
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\bin\Debug\net6.0\Pruebatest1.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\bin\Debug\net6.0\Pruebatest1.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.csproj.AssemblyReference.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.AssemblyInfoInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.AssemblyInfo.cs
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.csproj.CoreCompileInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\refint\Pruebatest1.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\Pruebatest1.genruntimeconfig.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Pruebatest1\obj\Debug\net6.0\ref\Pruebatest1.dll

@@ -1,0 +1,5 @@
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video4\obj\Debug\net6.0\pildorasInformaticas-video4.csproj.AssemblyReference.cache
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video4\obj\Debug\net6.0\pildorasInformaticas-video4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video4\obj\Debug\net6.0\pildorasInformaticas-video4.AssemblyInfoInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video4\obj\Debug\net6.0\pildorasInformaticas-video4.AssemblyInfo.cs
+C:\Users\josel\Documents\Github\Csharp---practice\pildorasInformaticas-video4\obj\Debug\net6.0\pildorasInformaticas-video4.csproj.CoreCompileInputs.cache
