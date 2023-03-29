@@ -17,5 +17,6 @@ namespace Pruebatest1
         {
             Nombre = nombre;
         }
+
     }
 }
