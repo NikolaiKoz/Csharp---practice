@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josel\\Documents\\Github\\Csharp---practice\\Udemy-c#-video3\\Udemy-c#-video3\\Udemy-c#-video3.csproj",
+      "projectUniqueName": "C:\\Users\\josel\\OneDrive\\Documentos\\Github\\Csharp---practice\\Udemy-c#-video3\\Udemy-c#-video3\\Udemy-c#-video3.csproj",
       "projectName": "Udemy-c#-video3",
-      "projectPath": "C:\\Users\\josel\\Documents\\Github\\Csharp---practice\\Udemy-c#-video3\\Udemy-c#-video3\\Udemy-c#-video3.csproj",
+      "projectPath": "C:\\Users\\josel\\OneDrive\\Documentos\\Github\\Csharp---practice\\Udemy-c#-video3\\Udemy-c#-video3\\Udemy-c#-video3.csproj",
       "packagesPath": "C:\\Users\\josel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josel\\Documents\\Github\\Csharp---practice\\Udemy-c#-video3\\Udemy-c#-video3\\obj\\",
+      "outputPath": "C:\\Users\\josel\\OneDrive\\Documentos\\Github\\Csharp---practice\\Udemy-c#-video3\\Udemy-c#-video3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josel\\AppData\\Roaming\\NuGet\\NuGet.Config",
